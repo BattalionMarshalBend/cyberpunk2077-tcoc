@@ -9,7 +9,7 @@
 ![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-Download-d98f40?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
-📥 **[Download on Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/33789)** · 📦 [Latest Release](../../releases/latest) · 🎥 [Video Preview](https://www.youtube.com/embed/hwRbqBHt5Dk)
+📥 **[Download](https://www.nexusmods.com/cyberpunk2077/mods/33789)** · 📦 [Latest Release](../../releases/latest) · 🎥 [Video Preview](https://www.youtube.com/embed/hwRbqBHt5Dk)
 
 ![Preview](images/preview.gif)
 
