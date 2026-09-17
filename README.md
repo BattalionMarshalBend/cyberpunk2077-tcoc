@@ -1,5 +1,7 @@
 # cyberpunk2077-tcoc — ITP: True Camera-Oriented Controls
 
+![Banner](banner.webp)
+
 **True camera-oriented third-person movement mod for Cyberpunk 2077.** V turns to face your actual direction of travel instead of strafing or backpedaling — smooth 360° locomotion across walk, jog and sprint, built as an add-on for [Immersive Third Person](https://www.nexusmods.com/cyberpunk2077/mods/32203).
 
 ![Cyberpunk 2077](https://img.shields.io/badge/Cyberpunk%202077-Mod-fcee0a?style=for-the-badge&logo=cyberpunk&logoColor=black)
