@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Build / packaging artifacts
+/build/
+/dist/
+*.tmp
+
+# Archives (keep only what you intentionally attach to Releases)
+*.zip
+*.rar
+*.7z
+
+# Keep these even though the patterns above would ignore them
+!/releases/**
